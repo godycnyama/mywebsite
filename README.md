@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This repo is for my personal website running on [http://godknowschristians.netlify.app](https://github.com/facebook/create-react-app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
