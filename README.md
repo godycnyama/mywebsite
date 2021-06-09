@@ -1,6 +1,6 @@
-# This repo is for my personal website running on [http://godknowschristians.netlify.app](https://github.com/facebook/create-react-app)
-
+# This repo is for my personal website running on http://godknowschristians.netlify.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo is for my personal website running on [http://godknowschristians.netlify.app](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
